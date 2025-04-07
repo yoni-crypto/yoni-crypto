@@ -77,3 +77,13 @@ Efficient platform to handle student registration and records for AmdeSilase Sun
 - 🖥️ **Desktop App:** Next.js, TailwindCSS, Prisma, MySQL, Electron  
 - 🌐 **Web Registration:** React.js, Material UI, CSS, MongoDB  
 🔗 [Live Site](https://amdesilase.vercel.app)
+
+---
+
+
+
+### 📬 Contact Me
+
+- 📧 Email: [yonidisu111@gmail.com](mailto:yonidisu111@gmail.com)  
+- 💬 Telegram: [@Yoni_yoye](https://t.me/Yoni_yoye)
+
