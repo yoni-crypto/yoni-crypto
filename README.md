@@ -48,36 +48,32 @@ A user-friendly platform that enables individuals to effortlessly post and brows
 ---
 
 #### 🍔 Food Hub – Online Food Ordering System
-A website where users can order food and make payments via Stripe. Built for smooth user experience and reliability.
+A food ordering platform where users can browse meals and pay securely via Stripe. Designed with a focus on usability and simplicity.
 
-**Tech Stack:** React.js, CSS, MongoDB
+**Tech Stack:** React.js, CSS, MongoDB  
+🔗 [User Site](https://foodsite-fr.vercel.app)
 
 ---
 
-#### 👨‍🍳 Food Hub Admin – Admin Panel for Food Hub
-An admin dashboard to manage the Food Hub platform. Features include adding food items, viewing orders, deleting orders, and updating order tracking.
+#### 👨‍🍳 Food Hub Admin – Admin Dashboard for Food Hub
+An admin dashboard to manage Food Hub operations: add foods, view/delete orders, and update order tracking.
 
-**Tech Stack:** React.js, CSS, MongoDB
+**Tech Stack:** React.js, CSS, MongoDB  
+🔗 [Admin Site](https://foodsite-admin.vercel.app)
 
 ---
 
 #### 🏨 Hotel Management System
-Streamlines hotel operations with an intuitive interface for managing bookings, rooms, and guests. Built for scalability and ease of use.
+A platform that streamlines hotel operations with tools to manage bookings, rooms, and guest data. Built to be scalable and user-friendly.
 
 **Tech Stack:** Next.js, Tailwind CSS, Material UI, Recharts  
 🔗 [Live Site](https://hotel-managment-nextjs-frontend.onrender.com)
 
 ---
 
-#### 🏫 AmdeSilase Sunday School – Desktop App & Web Registration System
-A system designed to manage student registrations and records for AmdeSilase Sunday School.
+#### 🏫 AmdeSilase Sunday School – Desktop & Web Registration System
+Efficient platform to handle student registration and records for AmdeSilase Sunday School.
 
-- 🖥️ **Desktop App:** Built with Next.js, TailwindCSS, Prisma, MySQL, and Electron  
-- 🌐 **Web Registration:** Developed using React.js, Material UI, CSS, and MongoDB  
+- 🖥️ **Desktop App:** Next.js, TailwindCSS, Prisma, MySQL, Electron  
+- 🌐 **Web Registration:** React.js, Material UI, CSS, MongoDB  
 🔗 [Live Site](https://amdesilase.vercel.app)
-
-These platforms make managing Sunday School students efficient and user-friendly for both administrators and students.
-
-
-
-
