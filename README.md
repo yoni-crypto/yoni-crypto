@@ -1,89 +1,94 @@
-### 👋 Hi, I'm Yonas Addisu 
-A passionate Full-Stack Developer from Ethiopia 🇪🇹
+<h1 align="center">👋 Hi, I'm Yonas Addisu</h1>
+<h3 align="center">💻 Full-Stack Developer | 🇪🇹 Ethiopia | 🎓 SE Student @ HilCoE</h3>
 
-- 🎓 SE Student at HilCoE School of Computer Science and Technology
-- 🔭 Currently working on student registration systems, admin dashboards, and creative web experiences
-- 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Developer;Creative+Web+and+Desktop+Solutions;Always+Learning+New+Techs!" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/yoni-crypto?tab=repositories">
+    <img alt="Portfolio" src="https://img.shields.io/badge/-See%20My%20Projects-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:yonidisu111@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-yonidisu111@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+  <a href="https://t.me/Yoni_yoye">
+    <img alt="Telegram" src="https://img.shields.io/badge/-@Yoni_yoye-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
 
-### 🛠️ Tech Stack
+---
 
-**Frontend**
+### 🔧 Tech Stack
+
+#### 👨‍💻 Frontend
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
-**Backend**
+#### 🧠 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 
-**Database**
+#### 🗃️ Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-**Other Tools & Languages**
+#### 🛠️ Other Tools & Languages
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2b%2b)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-
-
---- 
-
-🔗 [See My Repos](https://github.com/yoni-crypto?tab=repositories)
 
 ---
 
-### 🚀 Projects
+### 🚀 Projects I'm Proud Of
 
-#### 🏡 Betfelagi – House Rental & Sale Platform
-A user-friendly platform that enables individuals to effortlessly post and browse available houses for rent or sale. Whether you're a property owner or a prospective tenant/buyer, Betfelagi simplifies the process and makes it easy to connect.
+#### 🏡 [Betfelagi – House Rental & Sale](https://betfelagi.vercel.app)  
+Post & browse properties easily.  
+Tech: **React, TailwindCSS, Node.js, MongoDB, Cloudinary**
 
-**Tech Stack:** React.js, TailwindCSS, Node.js, MongoDB, Cloudinary  
-🔗 [Live Site](https://betfelagi.vercel.app)
+#### 🍔 [Food Hub – Food Ordering System](https://foodsite-fr.vercel.app)  
+Browse meals & order with Stripe checkout.  
+Tech: **React, CSS, MongoDB**
 
----
+#### 👨‍🍳 [Food Hub Admin Dashboard](https://foodsite-admin.vercel.app)  
+Manage foods, track & delete orders.  
+Tech: **React, CSS, MongoDB**
 
-#### 🍔 Food Hub – Online Food Ordering System
-A food ordering platform where users can browse meals and pay securely via Stripe. Designed with a focus on usability and simplicity.
+#### 🏨 [Hotel Management System](https://hotel-managment-nextjs-frontend.onrender.com)  
+Manage bookings, rooms & guests.  
+Tech: **Next.js, TailwindCSS, Material UI, Recharts**
 
-**Tech Stack:** React.js, CSS, MongoDB  
-🔗 [User Site](https://foodsite-fr.vercel.app)
-
----
-
-#### 👨‍🍳 Food Hub Admin – Admin Dashboard for Food Hub
-An admin dashboard to manage Food Hub operations: add foods, view/delete orders, and update order tracking.
-
-**Tech Stack:** React.js, CSS, MongoDB  
-🔗 [Admin Site](https://foodsite-admin.vercel.app)
+#### 🏫 [AmdeSilase Sunday School System](https://amdesilase.vercel.app)  
+📦 Desktop: Electron + MySQL + Prisma  
+🌐 Web: React + Material UI + MongoDB
 
 ---
 
-#### 🏨 Hotel Management System
-A platform that streamlines hotel operations with tools to manage bookings, rooms, and guest data. Built to be scalable and user-friendly.
+### 📈 GitHub Stats
 
-**Tech Stack:** Next.js, Tailwind CSS, Material UI, Recharts  
-🔗 [Live Site](https://hotel-managment-nextjs-frontend.onrender.com)
-
----
-
-#### 🏫 AmdeSilase Sunday School – Desktop & Web Registration System
-Efficient platform to handle student registration and records for AmdeSilase Sunday School.
-
-- 🖥️ **Desktop App:** Next.js, TailwindCSS, Prisma, MySQL, Electron  
-- 🌐 **Web Registration:** React.js, Material UI, CSS, MongoDB  
-🔗 [Live Site](https://amdesilase.vercel.app)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoni-crypto&show_icons=true&theme=tokyonight" alt="Yonas GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=yoni-crypto&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
+### 🐍 Contribution Snake Animation
 
+<p align="center">
+  <img src="https://github.com/yoni-crypto/yoni-crypto/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-### 📬 Contact Me
+---
 
-- 📧 Email: [yonidisu111@gmail.com](mailto:yonidisu111@gmail.com)  
-- 💬 Telegram: [@Yoni_yoye](https://t.me/Yoni_yoye)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yoni-crypto&style=for-the-badge&color=orange" alt="Profile Views" />
+</p>
