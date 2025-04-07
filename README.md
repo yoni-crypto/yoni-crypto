@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Yonas Addisu (Yoni)
+### 👋 Hi, I'm Yonas Addisu 
 A passionate Full-Stack Developer from Ethiopia 🇪🇹
 
 - 🎓 SE Student at HilCoE School of Computer Science and Technology
@@ -35,11 +35,5 @@ A passionate Full-Stack Developer from Ethiopia 🇪🇹
 
 🔗 [See My Repos](https://github.com/yoni-crypto?tab=repositories)
 
----
 
-### 📈 GitHub Stats
-
-![Yoni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoni-crypto&show_icons=true&theme=radical)
-
----
 
