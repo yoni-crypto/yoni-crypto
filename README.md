@@ -74,6 +74,4 @@ Tech: **React, CSS, MongoDB**
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yoni-crypto&style=for-the-badge&color=orange" alt="Profile Views" />
-</p>
+
