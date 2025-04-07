@@ -50,6 +50,10 @@
 
 ### 🚀 Projects I'm Proud Of
 
+#### 🏨 [Hotel Management System](https://hotel-managment-nextjs-frontend.onrender.com)  
+Manage bookings, rooms & guests.  
+Tech: **Next.js, TailwindCSS, Material UI, Recharts**
+
 #### 🏡 [Betfelagi – House Rental & Sale](https://betfelagi.vercel.app)  
 Post & browse properties easily.  
 Tech: **React, TailwindCSS, Node.js, MongoDB, Cloudinary**
@@ -62,9 +66,6 @@ Tech: **React, CSS, MongoDB**
 Manage foods, track & delete orders.  
 Tech: **React, CSS, MongoDB**
 
-#### 🏨 [Hotel Management System](https://hotel-managment-nextjs-frontend.onrender.com)  
-Manage bookings, rooms & guests.  
-Tech: **Next.js, TailwindCSS, Material UI, Recharts**
 
 #### 🏫 [AmdeSilase Sunday School System](https://amdesilase.vercel.app)  
 📦 Desktop: Electron + MySQL + Prisma  
