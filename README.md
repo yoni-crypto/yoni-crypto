@@ -70,22 +70,6 @@ Tech: **Next.js, TailwindCSS, Material UI, Recharts**
 📦 Desktop: Electron + MySQL + Prisma  
 🌐 Web: React + Material UI + MongoDB
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoni-crypto&show_icons=true&theme=tokyonight" alt="Yonas GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=yoni-crypto&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/yoni-crypto/yoni-crypto/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
