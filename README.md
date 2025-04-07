@@ -31,3 +31,15 @@ A passionate Full-Stack Developer from Ethiopia 🇪🇹
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
 ---
+
+
+🔗 [See My Repos](https://github.com/yoni-crypto?tab=repositories)
+
+---
+
+### 📈 GitHub Stats
+
+![Yoni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoni-crypto&show_icons=true&theme=radical)
+
+---
+
