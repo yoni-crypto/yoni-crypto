@@ -2,10 +2,6 @@
 <h3 align="center">💻 Full-Stack Developer | 🇪🇹 Ethiopia | 🎓 SE Student @ HilCoE</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500" alt="Dev setup animation" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Developer;Creative+Web+and+Desktop+Solutions;Always+Learning+New+Techs!" alt="Typing SVG" />
 </p>
 
@@ -23,38 +19,61 @@
 
 ---
 
-## 🚀 Tech Stack
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="55%">
 
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+        <h2>🚀 Tech Stack</h2>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma)
+        <h4>🖥️ Frontend</h4>
+        <p>
+          <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react"/>
+          <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js"/>
+          <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular"/>
+          <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
+          <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5"/>
+          <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
+          <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+        </p>
 
-### 🗃️ Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
+        <h4>⚙️ Backend</h4>
+        <p>
+          <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js"/>
+          <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express"/>
+          <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma"/>
+        </p>
 
-### 🔧 Tools & Platforms
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+        <h4>🗃️ Database</h4>
+        <p>
+          <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+          <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+        </p>
 
-### 🧠 Languages & Other
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron)
+        <h4>🛠 Tools & Platforms</h4>
+        <p>
+          <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+          <img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+          <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel"/>
+          <img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+        </p>
+
+        <h4>💻Other Languages </h4>
+        <p>
+          <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b"/>
+          <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp"/>
+          <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java"/>
+          <img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron"/>
+        </p>
+
+      </td>
+      <td valign="top" width="45%" align="center">
+        <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="100%" alt="Dev setup animation" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -64,25 +83,17 @@
 > **Tech:** Next.js, TailwindCSS, Material UI, Recharts  
 A powerful system to manage bookings, rooms & guests.
 
----
-
 ### 🏡 [Betfelagi – House Rental & Sale](https://betfelagi.vercel.app)  
 > **Tech:** React, TailwindCSS, Node.js, MongoDB, Cloudinary  
 Post & browse properties with search & filters.
-
----
 
 ### 🍔 [Food Hub – Ordering System](https://foodsite-fr.vercel.app)  
 > **Tech:** React, CSS, MongoDB  
 Browse meals, add to cart, and checkout with Stripe.
 
----
-
 ### 🧑‍🍳 [Food Hub Admin Panel](https://foodsite-admin.vercel.app)  
 > **Tech:** React, CSS, MongoDB  
 Manage menu items, view orders, and control everything!
-
----
 
 ### 🏫 [AmdeSilase Sunday School System](https://amdesilase.vercel.app)  
 📦 **Desktop:** Electron + MySQL + Prisma  
