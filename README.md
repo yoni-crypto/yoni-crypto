@@ -58,7 +58,7 @@
 
 ---
 
-## ✨ Featured Projects
+## ✨ Projects
 
 ### 🏨 [Hotel Management System](https://hotel-managment-nextjs-frontend.onrender.com)  
 > **Tech:** Next.js, TailwindCSS, Material UI, Recharts  
