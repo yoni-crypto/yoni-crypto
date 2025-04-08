@@ -21,57 +21,58 @@
 
 <table>
   <tr>
-    <td valign="top" width="55%">
+    <td width="60%" valign="top">
 
-      <h2>📌 Tech Stack</h2>
+<h2>🚀 Tech Stack</h2>
 
-      <h4>🖥️ Frontend</h4>
-      <p>
-        <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react"/>
-        <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js"/>
-        <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular"/>
-        <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5"/>
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
-        <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-      </p>
+<h4>🖥️ Frontend</h4>
+<p>
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular"/>
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+</p>
 
-      <h4>⚙️ Backend</h4>
-      <p>
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js"/>
-        <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express"/>
-        <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma"/>
-      </p>
+<h4>⚙️ Backend</h4>
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma"/>
+</p>
 
-      <h4>🗃️ Database</h4>
-      <p>
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-      </p>
+<h4>🗃️ Database</h4>
+<p>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+</p>
 
-      <h4>🛠 Tools & Platforms</h4>
-      <p>
-        <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel"/>
-        <img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-      </p>
+<h4>🛠 Tools & Platforms</h4>
+<p>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
 
-      <h4>💻 Other Languages</h4>
-      <p>
-        <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b"/>
-        <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp"/>
-        <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java"/>
-        <img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron"/>
-      </p>
+<h4>💻 Other Languages</h4>
+<p>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron"/>
+</p>
 
     </td>
-    <td valign="top" align="center" width="45%">
-      <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="100%" alt="Dev setup animation" />
+    <td width="40%" valign="top" align="center">
+      <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="90%" alt="Dev setup animation"/>
     </td>
   </tr>
 </table>
+
 
 
 ---
