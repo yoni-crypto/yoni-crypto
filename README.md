@@ -120,4 +120,4 @@ Manage menu items, view orders, and control everything!
 <p align="center">
   <b>🔥 Let’s Connect and Create Cool Stuff Together!</b><br/>
   <i>Building creative solutions one line at a time...</i>
-</p>make this look modern add anmiantions and stuff  and also in pc this is not fillng the width i mean the image svg thing fix it also 
+</p>
