@@ -1,21 +1,15 @@
-<!-- Animate.css for smooth animations -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+<h1 align="center">👋 Hi, I'm Yonas Addisu</h1>
+<h3 align="center">💻 Full-Stack Developer | 🇪🇹 Ethiopia | 🎓 SE Student @ HilCoE</h3>
 
-<h1 align="center" class="animate__animated animate__fadeInDown">👋 Hi, I'm Yonas Addisu</h1>
-<h3 align="center" class="animate__animated animate__fadeIn animate__delay-1s">💻 Full-Stack Developer | 🇪🇹 Ethiopia | 🎓 SE Student @ HilCoE</h3>
-
-<!-- Animated Dev GIF -->
-<p align="center" class="animate__animated animate__zoomIn">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Dev setup animation" style="width:100%; max-width:600px; border-radius:12px;" />
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500" alt="Dev setup animation" />
 </p>
 
-<!-- Typing SVG -->
-<p align="center" class="animate__animated animate__fadeInUp animate__delay-2s">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Developer;Creative+Web+and+Desktop+Solutions;Always+Learning+New+Techs!" alt="Typing SVG" />
 </p>
 
-<!-- Contact Buttons -->
-<p align="center" class="animate__animated animate__fadeInUp animate__delay-3s">
+<p align="center">
   <a href="https://github.com/yoni-crypto?tab=repositories">
     <img alt="Portfolio" src="https://img.shields.io/badge/-See%20My%20Projects-black?style=for-the-badge&logo=github">
   </a>
@@ -32,62 +26,86 @@
 ## 🚀 Tech Stack
 
 ### 🖥️ Frontend
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Material UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=mui)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-gray?style=flat-square&logo=express)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma)
 
 ### 🗃️ Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ### 🔧 Tools & Platforms
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-### 🧠 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+### 🧠 Languages & Other
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron)
 
 ---
 
 ## ✨ Featured Projects
 
-<div class="animate__animated animate__fadeInLeft">
-  
+### 🏨 [Hotel Management System](https://hotel-managment-nextjs-frontend.onrender.com)  
+> **Tech:** Next.js, TailwindCSS, Material UI, Recharts  
+A powerful system to manage bookings, rooms & guests.
+
+---
+
 ### 🏡 [Betfelagi – House Rental & Sale](https://betfelagi.vercel.app)  
-> Post & browse houses for rent and sale.  
-> **Stack:** React, TailwindCSS, Node.js, MongoDB, Cloudinary
+> **Tech:** React, TailwindCSS, Node.js, MongoDB, Cloudinary  
+Post & browse properties with search & filters.
 
 ---
 
-### 📚 Student Registration System  
-> Register, update, and manage student data with admin login system.  
-> **Stack:** React, MUI, Node.js, MongoDB Atlas, Express
-
-</div>
+### 🍔 [Food Hub – Ordering System](https://foodsite-fr.vercel.app)  
+> **Tech:** React, CSS, MongoDB  
+Browse meals, add to cart, and checkout with Stripe.
 
 ---
 
-## 📈 GitHub Stats
+### 🧑‍🍳 [Food Hub Admin Panel](https://foodsite-admin.vercel.app)  
+> **Tech:** React, CSS, MongoDB  
+Manage menu items, view orders, and control everything!
 
-<p align="center" class="animate__animated animate__fadeIn">
+---
+
+### 🏫 [AmdeSilase Sunday School System](https://amdesilase.vercel.app)  
+📦 **Desktop:** Electron + MySQL + Prisma  
+🌐 **Web:** React + Material UI + MongoDB
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yoni-crypto&show_icons=true&theme=radical" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoni-crypto&layout=compact&theme=radical" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoni-crypto&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center" class="animate__animated animate__zoomIn">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yoni-crypto&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues" />
 </p>
 
@@ -99,7 +117,7 @@
 
 ---
 
-<p align="center" style="font-size: 18px;" class="animate__animated animate__fadeInUp">
+<p align="center">
   <b>🔥 Let’s Connect and Create Cool Stuff Together!</b><br/>
   <i>Building creative solutions one line at a time...</i>
-</p>
+</p>make this look modern add anmiantions and stuff  and also in pc this is not fillng the width i mean the image svg thing fix it also 
