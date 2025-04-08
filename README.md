@@ -2,6 +2,10 @@
 <h3 align="center">💻 Full-Stack Developer | 🇪🇹 Ethiopia | 🎓 SE Student @ HilCoE</h3>
 
 <p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="dev animation" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Developer;Creative+Web+and+Desktop+Solutions;Always+Learning+New+Techs!" alt="Typing SVG" />
 </p>
 
@@ -19,64 +23,81 @@
 
 ---
 
+## 🧰 Tech Stack
+
+### 👨‍💻 Frontend
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma)
+
+### 🗃️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### 🛠️ Other Tools & Languages
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron)
+
+---
+
+## 🚀 Projects I'm Proud Of
+
+### 🏨 [Hotel Management System](https://hotel-managment-nextjs-frontend.onrender.com)  
+> **Tech:** Next.js, TailwindCSS, Material UI, Recharts  
+Manage bookings, rooms & guests with a clean admin UI.
+
+---
+
+### 🏡 [Betfelagi – House Rental & Sale](https://betfelagi.vercel.app)  
+> **Tech:** React, TailwindCSS, Node.js, MongoDB, Cloudinary  
+Post & browse properties with image uploads and filtering.
+
+---
+
+### 🍔 [Food Hub – Food Ordering System](https://foodsite-fr.vercel.app)  
+> **Tech:** React, CSS, MongoDB  
+Browse meals & order with Stripe checkout integration.
+
+---
+
+### 👨‍🍳 [Food Hub Admin Dashboard](https://foodsite-admin.vercel.app)  
+> **Tech:** React, CSS, MongoDB  
+Manage foods, orders, and inventory in real-time.
+
+---
+
+### 🏫 [AmdeSilase Sunday School System](https://amdesilase.vercel.app)  
+📦 **Desktop:** Electron + MySQL + Prisma  
+🌐 **Web:** React + Material UI + MongoDB
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="Coding animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yoni-crypto&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoni-crypto&layout=compact&theme=radical" height="170" />
 </p>
 
-
-### 🔧 Tech Stack
-
-#### 👨‍💻 Frontend
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-
-#### 🧠 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
-
-#### 🗃️ Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-#### 🛠️ Other Tools & Languages
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2b%2b)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)
-
 ---
 
-### 🚀 Projects I'm Proud Of
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yoni-crypto&label=Profile%20views&color=FFA500&style=flat-square" alt="profile views"/>
+</p>
 
-#### 🏨 [Hotel Management System](https://hotel-managment-nextjs-frontend.onrender.com)  
-Manage bookings, rooms & guests.  
-Tech: **Next.js, TailwindCSS, Material UI, Recharts**
-
-#### 🏡 [Betfelagi – House Rental & Sale](https://betfelagi.vercel.app)  
-Post & browse properties easily.  
-Tech: **React, TailwindCSS, Node.js, MongoDB, Cloudinary**
-
-#### 🍔 [Food Hub – Food Ordering System](https://foodsite-fr.vercel.app)  
-Browse meals & order with Stripe checkout.  
-Tech: **React, CSS, MongoDB**
-
-#### 👨‍🍳 [Food Hub Admin Dashboard](https://foodsite-admin.vercel.app)  
-Manage foods, track & delete orders.  
-Tech: **React, CSS, MongoDB**
-
-
-#### 🏫 [AmdeSilase Sunday School System](https://amdesilase.vercel.app)  
-📦 Desktop: Electron + MySQL + Prisma  
-🌐 Web: React + Material UI + MongoDB
-
-
----
-
-
+<p align="center">
+  <b>Thank you for stopping by! 🚀</b><br/>
+  <i>Let's build something awesome together.</i>
+</p>
