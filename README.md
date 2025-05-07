@@ -2,7 +2,9 @@
 <h3 align="center">💻 Full-Stack Developer | 🇪🇹 Ethiopia | 🎓 SE Student @ HilCoE</h3>
 
 <!-- Full-width modern coding banner -->
-<img src="https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner-concept_33099-1726.jpg" alt="Web Development Banner" style="width: 100%; height: auto;" />
+<!-- Full-width modern coding banner -->
+<img src="https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner_33099-1720.jpg" alt="Web Development Banner" style="width: 100%; height: auto;" />
+
 
 
 <p align="center">
