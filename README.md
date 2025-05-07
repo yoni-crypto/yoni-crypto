@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Yonas Addisu</h1>
 <h3 align="center">💻 Full-Stack Developer | 🇪🇹 Ethiopia | 🎓 SE Student @ HilCoE</h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500" alt="Dev setup animation" />
-</p>
+<!-- Full-width modern coding banner -->
+<img src="https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner-concept_33099-1726.jpg" alt="Web Development Banner" style="width: 100%; height: auto;" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Developer;Creative+Web+and+Desktop+Solutions;Always+Learning+New+Techs!" alt="Typing SVG" />
