@@ -3,7 +3,7 @@
 
 <!-- Full-width modern coding banner -->
 <!-- Full-width modern coding banner -->
-<img src="https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner_33099-1720.jpg](https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?t=st=1746639699~exp=1746643299~hmac=dc45cbd13f33d1192ff792685be76543c2b3c780a7e642c3d99d0ebebe599887&w=900)" alt="Web Development Banner" style="width: 100%; height: auto;" />
+<img src="https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?t=st=1746639699~exp=1746643299~hmac=dc45cbd13f33d1192ff792685be76543c2b3c780a7e642c3d99d0ebebe599887&w=900" alt="Web Development Banner" style="width: 100%; height: auto;" />
 
 
 
